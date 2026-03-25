@@ -37,7 +37,7 @@ Created a simple, clean, and responsive portfolio website to showcase personal d
 
 ## 👨‍💻 Developed By
 - **S S Sahil** (UID: 25BCD10109)
-- - **Rakshak Bhardwaj**  (UID: 25BCD10102)  
+-  **Rakshak Bhardwaj**  (UID: 25BCD10102)  
 - Class: 25BCD 2B
 
 ---
